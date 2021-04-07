@@ -4,9 +4,9 @@
 
 **Programmer, Researcher, Educator and Biomedical Engineer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daeshjoy&label=Profile%20views&color=0e75b6&style=flat" alt="daeshjoy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daneshjoy&label=Profile%20views&color=0e75b6&style=flat" alt="daneshjoy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daeshjoy" alt="daeshjoy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daneshjoy" alt="daneshjoy" /></a> </p>
 
 - 🔭 I’m currently working on **Deep Learning & Python/Matlab Programming**
 
@@ -66,12 +66,12 @@
   <a href="https://www.spyder-ide.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/800px-Spyder_logo.svg.png" alt="spyder" width="40" height="40"/>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daeshjoy&show_icons=true&locale=en&layout=compact" alt="daeshjoy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daneshjoy&show_icons=true&locale=en&layout=compact" alt="daneshjoy" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daeshjoy&show_icons=true&locale=en" alt="daeshjoy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daneshjoy&show_icons=true&locale=en" alt="daneshjoy" /></p>
 
 <!--
-**daeshjoy/daeshjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daneshjoy/daneshjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
