@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flask / Django / Flutter**
 
-- 📫 You can reach me via **daeshjoy.info@gmail.com** / **[DaneshJoy website](https://daneshjoy.ir)**
+- 📫 You can reach me via **daneshjoy.info@gmail.com** / **[DaneshJoy website](https://daneshjoy.ir)**
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
