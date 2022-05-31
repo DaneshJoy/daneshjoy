@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daneshjoy" alt="daneshjoy" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning & Python/Matlab Programming**
+- 🔭 I’m currently working on **Deep Learning & Python/C# Programming**
 
-- 🌱 I’m currently learning **Flask / Django / Flutter**
+- 🌱 I’m currently learning **ASP.NET Core / NLP **
 
-- 📫 You can reach me via **daneshjoy.info@gmail.com** / **[DaneshJoy website](https://daneshjoy.ir)**
+- 📫 You can reach me via **daneshjoy.ir@gmail.com** / **[DaneshJoy website](https://daneshjoy.ir)**
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
