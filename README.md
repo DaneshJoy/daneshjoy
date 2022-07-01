@@ -27,16 +27,20 @@
   <a href="https://www.cplusplus.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   
-<h3 align="left">Softwares & Libraries</h3>
+<h3 align="left">Technologies</h3>
 <p align="left"> 
   <a href="https://www.tensorflow.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="flask" width="40" height="40"/></a>
   <a href="https://keras.io/">
   <img src="https://keras.io/img/logo.png" alt="flask" width="100" height="30"/></a>
+  <a href="https://huggingface.co/">
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/></a>
+  <a href="https://pytorch.org/">
+  <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/51/6d31a64dad46d08a076ef7abbf4f15/external-content.duckduckgo.com.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25" alt="pytorch" width="50" height="50"/></a>
   <a href="https://flask.palletsprojects.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="60" height="60"/></a>
   <a href="https://www.djangoproject.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="50" height="50"/></a>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="50" height="50"/></a>
   <a href="https://www.docker.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
   <a href="https://git-scm.com/">
