@@ -88,3 +88,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr />
+<h3> Donate </h3>
+<ul>
+<li class="md-list-item">
+<p class="md-end-block md-p" style="text-align: center;"><a role="button" href="https://www.paypal.com/donate/?hosted_button_id=5SL6Y3LNGEP2L"><span style="font-size: small;"><span class="md-plain">Donate to DaneshJoy via PayPal</span></span></a><br/>
+<a href="https://www.paypal.com/donate/?hosted_button_id=5SL6Y3LNGEP2L" target="_blank" rel="noopener"><img loading="lazy" class="alignnone wp-image-822" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png" alt="" width="139" height="37" srcset="https://daneshjoy.ir/wp-content/uploads/2022/09/PayPal-300x80.png 300w, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png 256w, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png 360w" sizes="(max-width: 139px) 100vw, 139px" /></a></p>
+</li>
+<li>
+<p><img loading="lazy" class="wp-image-823 aligncenter" src="https://daneshjoy.ir/wp-content/uploads/2022/09/Paypal-Donation-QR-code.png" alt="" width="133" height="133" srcset="https://daneshjoy.ir/wp-content/uploads/2022/09/Paypal-Donation-QR-code.png 160w, https://daneshjoy.ir/wp-content/uploads/2022/09/Paypal-Donation-QR-code-150x150.png 150w, https://daneshjoy.ir/wp-content/uploads/2022/09/Paypal-Donation-QR-code-140x140.png 140w" sizes="(max-width: 133px) 100vw, 133px" /></p>
+<div class="md-hr md-end-block" tabindex="-1">
+<hr />
+</li>
+</ul>
