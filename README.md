@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daneshjoy" alt="daneshjoy" /></a> </p>
 
-- 🔭 Currently working: **Deep Learning / Python + PyQt**
+- 🔭 Currently working: **Deep Learning / Python + PyQt** + **NLP / Transformers**
 
-- 🌱 Currently learning: **ASP.NET Core / React **
+- 🌱 Currently learning: **ASP.NET Core / React JS**
 
 - 📫 You can reach me via **daneshjoy.ir@gmail.com** / **[DaneshJoy website](https://daneshjoy.ir)**
 
@@ -26,6 +26,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
   <a href="https://www.cplusplus.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href=https://reactjs.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react-js" width="38" height="33"/></a>
   
 <h3 align="left">Technologies</h3>
 <p align="left"> 
@@ -64,11 +66,15 @@
   <a href="https://www.android.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/></a>
   <a href="https://github.com/microsoft/terminal">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1280px-Windows_Terminal_logo.svg.png" alt="windows terminal" width="35" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1280px-Windows_Terminal_logo.svg.png" alt="windows terminal" width="35" height="30"/></a>
   <a href="https://code.visualstudio.com/">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/></a>
   <a href="https://www.spyder-ide.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/800px-Spyder_logo.svg.png" alt="spyder" width="75" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/800px-Spyder_logo.svg.png" alt="spyder" width="75" height="40"/></a>
+  <a href="https://www.jetbrains.com/pycharm/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/></a>
+   <a href="https://thonny.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="Thonny" title="Thonny" width="40" height="40"/> </a>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daneshjoy&show_icons=true&locale=en&layout=compact" alt="daneshjoy" /></p>
 <br>
@@ -91,14 +97,4 @@ Here are some ideas to get you started:
 
 <hr />
 <h3> Donate </h3>
-<ul>
-<li class="md-list-item">
-<p class="md-end-block md-p" style="text-align: center;"><a role="button" href="https://www.paypal.com/donate/?hosted_button_id=5SL6Y3LNGEP2L"><span style="font-size: small;"><span class="md-plain">Donate to DaneshJoy via PayPal</span></span></a><br/>
-<a href="https://www.paypal.com/donate/?hosted_button_id=5SL6Y3LNGEP2L" target="_blank" rel="noopener"><img loading="lazy" class="alignnone wp-image-822" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png" alt="" width="139" height="37" srcset="https://daneshjoy.ir/wp-content/uploads/2022/09/PayPal-300x80.png 300w, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png 256w, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png 360w" sizes="(max-width: 139px) 100vw, 139px" /></a></p>
-</li>
-<li>
-<p><img loading="lazy" class="wp-image-823 aligncenter" src="https://daneshjoy.ir/wp-content/uploads/2022/09/Paypal-Donation-QR-code.png" alt="" width="133" height="133" srcset="https://daneshjoy.ir/wp-content/uploads/2022/09/Paypal-Donation-QR-code.png 160w, https://daneshjoy.ir/wp-content/uploads/2022/09/Paypal-Donation-QR-code-150x150.png 150w, https://daneshjoy.ir/wp-content/uploads/2022/09/Paypal-Donation-QR-code-140x140.png 140w" sizes="(max-width: 133px) 100vw, 133px" /></p>
-<div class="md-hr md-end-block" tabindex="-1">
-<hr />
-</li>
-</ul>
+   <a href="https://daneshjoy.ir/donate/" target="_blank">Daneshjoy donation page</a>
