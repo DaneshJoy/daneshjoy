@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daneshjoy" alt="daneshjoy" /></a> </p>
 
-- 🔭 Currently working: **Deep Learning / Python + PyQt** + **NLP / Transformers**
+- 🔭 Currently working: **Deep Learning / Python + PyQt / Deep NLP + Transformers**
 
 - 🌱 Currently learning: **ASP.NET Core / React JS**
 
