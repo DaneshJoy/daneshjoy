@@ -99,4 +99,6 @@ Here are some ideas to get you started:
 
 <hr />
 <h3> Donate </h3>
-   <a href="https://daneshjoy.ir/donate/" target="_blank">Daneshjoy donation page</a>
+<ul><a href="https://daneshjoy.ir/donate/" target="_blank">Daneshjoy donation page</a></ul>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=&fontSize=24&fontColor=auto)
