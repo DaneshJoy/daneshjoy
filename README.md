@@ -78,9 +78,9 @@
    <a href="https://thonny.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="Thonny" title="Thonny" width="40" height="40"/> </a>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daneshjoy&show_icons=true&locale=en&layout=compact" alt="daneshjoy" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=daneshjoy&show_icons=true&locale=en&layout=compact" alt="daneshjoy" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daneshjoy&show_icons=true&locale=en" alt="daneshjoy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daneshjoy&show_icons=true&locale=en" alt="daneshjoy" /></p>
 
 <!--
 **daneshjoy/daneshjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
