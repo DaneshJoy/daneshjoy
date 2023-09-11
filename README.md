@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
 
 ### Hi there 👋
  
@@ -12,7 +12,7 @@
 
 - 🔭 Currently working: **Deep Learning / Python + PyQt / Deep NLP + Transformers**
 
-- 🌱 Currently learning: **ASP.NET Core / React JS**
+- 🌱 Currently learning: **Langchain + other LLM stuff**
 
 - 📫 You can reach me via **daneshjoy.ir@gmail.com** / **[DaneshJoy website](https://daneshjoy.ir)**
 
@@ -101,4 +101,4 @@ Here are some ideas to get you started:
 <h3> Donate </h3>
 <ul><a href="https://daneshjoy.ir/donate/" target="_blank">Daneshjoy donation page</a></ul>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=&fontSize=24&fontColor=auto)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=&fontSize=24&fontColor=auto)
