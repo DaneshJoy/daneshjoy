@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daneshjoy&label=Profile%20views&color=0e75b6&style=flat" alt="daneshjoy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daneshjoy" alt="daneshjoy" /></a> </p>
-
 - 🌱 Currently working: **(LangChain + Flask/FasAPI) | (Python + PyVista + PyQt)** 
 
 - 📫 Contacts: **daneshjoy.ir@gmail.com** / **[DaneshJoy website](https://daneshjoy.ir)**
@@ -55,6 +53,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="sqlite" width="70" height="30"/></a>
 
 ---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daneshjoy" alt="daneshjoy" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=daneshjoy&show_icons=true&locale=en&layout=compact" alt="daneshjoy" /></p>
 <br>
