@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
 
+<p align="center">
+<img src="daneshjoy.gif" alt="daneshjoy logo gif" width="200"/>
+</p>
+
 ### Hi there 👋
  
  I'm **Saeed**, Founder of **DaneshJoy**
