@@ -4,10 +4,6 @@
 <img src="daneshjoy.gif" alt="daneshjoy logo gif" width="200"/>
 </p>
 
-### Hi there 👋
- 
- I'm **Saeed**, Founder of **DaneshJoy**
-
 **Programmer, Researcher, Educator and Biomedical Engineer**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daneshjoy&label=Profile%20views&color=0e75b6&style=flat" alt="daneshjoy" /> </p>
