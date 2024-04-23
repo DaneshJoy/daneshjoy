@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
 
 <p align="center">
-<img src="daneshjoy.gif" alt="daneshjoy logo gif" width="200"/>
+<img src="daneshjoy_sketch.gif" alt="daneshjoy logo gif" width="225"/>
 </p>
 
 **Programmer, Researcher, Educator and Biomedical Engineer**
