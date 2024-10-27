@@ -1,16 +1,36 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
 
-<p align="center">
-<img src="daneshjoy_sketch.gif" alt="daneshjoy logo gif" width="225"/>
-</p>
+<div align="center">
+  <img src="daneshjoy_sketch.gif" alt="daneshjoy logo gif" width="225"/>
+</div>
 
-**Programmer, Researcher, Educator and Biomedical Engineer**
+<div align="center">
+  <a href="mailto:daneshjoy.ir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat"/>
+  </a>
+  <a href="https://linkedin.com/in/saeed-mohagheghi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="daneshjoy logo gif"/>
+  </a>
+  <a href="https://www.daneshjoy.ir" target="_blank">
+    <img src="https://img.shields.io/website?url=https%3A//www.daneshjoy.ir&label=daneshjoy.ir" alt="daneshjoy logo gif"/>
+  </a>
+  <a href="https://github.com/DaneshJoy" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=daneshjoy&label=Profile%20views&color=0e75b6&style=flat" alt="daneshjoy" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://daneshjoy.ir/donate/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.daneshjoy.ir&up_message=%3A)&up_color=pink&style=flat&label=Donate" width=100>
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daneshjoy&label=Profile%20views&color=0e75b6&style=flat" alt="daneshjoy" /> </p>
+---
 
-- 🌱 Currently working: **(LangChain + Flask/FasAPI) | (Python + PyVista + PyQt)** 
+**Programmer**, **Researcher**, **Educator** and **Biomedical Engineer**
 
-- 📫 Contacts: **daneshjoy.ir@gmail.com** / **[DaneshJoy website](https://daneshjoy.ir)**
+- Currently working: **(LangChain + Flask/FasAPI)** | **(Python + PyVista + PyQt)** 
+
+---
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
@@ -76,7 +96,10 @@ Here are some ideas to get you started:
 -->
 
 <hr />
-<h3> Donate </h3>
-<ul><a href="https://daneshjoy.ir/donate/" target="_blank">Daneshjoy donation page</a></ul>
+<div align="center">
+  <a href="https://daneshjoy.ir/donate/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.daneshjoy.ir&up_message=%3A)&up_color=pink&style=flat&label=Donate" width=110>
+  </a>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=&fontSize=24&fontColor=auto)
