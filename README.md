@@ -63,14 +63,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="60" height="60"/></a>
   <a href="https://www.djangoproject.com/">
   <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="50" height="50"/></a>
+  <a href="https://opencv.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="50" height="50"/></a>
+  <a href="https://docs.pyvista.org/index.html">
+  <img src="https://qtdocs.pyvista.org/_static/pyvista_logo.png" alt="pyvista" width="50" height="50"/></a>
   <a href="https://www.docker.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
   <a href="https://git-scm.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/></a>
   <a href="https://www.mysql.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
-  <a href="https://mariadb.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
   <a href="https://mariadb.org/">
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="50" height="50"/></a>
   <a href="https://www.sqlite.org/">
