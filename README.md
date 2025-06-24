@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
+![image](https://github.com/user-attachments/assets/6fe93d74-0503-4418-baad-8d5da9c86aa2)![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
 
 <div align="center">
   <img src="daneshjoy_sketch.gif" alt="daneshjoy logo gif" width="225"/>
@@ -48,9 +48,9 @@
 <h3 align="left">Technologies</h3>
 <p align="left"> 
   <a href="https://github.com/langchain-ai/langchain">
-  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="langchain" width="70" height="70"/></a>
+  <img src="https://github.com/langchain-ai/langchain/raw/master/docs/static/img/logo-dark.svg" alt="langchain" width="70" height="70"/></a>
   <a href="https://github.com/langchain-ai/langgraph">
-  <img src="https://assets.datacamp.com/production/repositories/6773/datasets/8b56faeb095c39785da93e3584af5b46e15b7842/LangGraph_icon.png" alt="langgraph" width="70" height="70"/></a>
+  <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" alt="langgraph" width="70" height="70"/></a>
   <a href="https://www.tensorflow.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://keras.io/">
