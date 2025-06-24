@@ -48,9 +48,9 @@
 <h3 align="left">Technologies</h3>
 <p align="left"> 
   <a href="https://github.com/langchain-ai/langchain">
-  <img src="https://github.com/langchain-ai/langchain/raw/master/docs/static/img/logo-dark.svg" alt="langchain" width="70" height="70"/></a>
+  <img src="https://github.com/langchain-ai/langchain/raw/master/docs/static/img/logo-dark.svg" alt="langchain" width="120" height="70"/></a>
   <a href="https://github.com/langchain-ai/langgraph">
-  <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" alt="langgraph" width="70" height="70"/></a>
+  <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" alt="langgraph" width="120" height="70"/></a>
   <a href="https://www.tensorflow.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://keras.io/">
@@ -66,7 +66,7 @@
   <a href="https://opencv.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="50" height="50"/></a>
   <a href="https://docs.pyvista.org/index.html">
-  <img src="https://qtdocs.pyvista.org/_static/pyvista_logo.png" alt="pyvista" width="50" height="50"/></a>
+  <img src="https://qtdocs.pyvista.org/_static/pyvista_logo.png" alt="pyvista" width="100" height="50"/></a>
   <a href="https://www.docker.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
   <a href="https://git-scm.com/">
