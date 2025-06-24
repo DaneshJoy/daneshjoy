@@ -47,12 +47,14 @@
   
 <h3 align="left">Technologies</h3>
 <p align="left"> 
-  <a href="https://www.langchain.com/">
-  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="flask" width="70" height="70"/></a>
+  <a href="https://github.com/langchain-ai/langchain">
+  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="langchain" width="70" height="70"/></a>
+  <a href="https://github.com/langchain-ai/langgraph">
+  <img src="https://assets.datacamp.com/production/repositories/6773/datasets/8b56faeb095c39785da93e3584af5b46e15b7842/LangGraph_icon.png" alt="langgraph" width="70" height="70"/></a>
   <a href="https://www.tensorflow.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="flask" width="40" height="40"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://keras.io/">
-  <img src="https://keras.io/img/logo.png" alt="flask" width="100" height="30"/></a>
+  <img src="https://keras.io/img/logo.png" alt="keras" width="100" height="30"/></a>
   <a href="https://huggingface.co/">
   <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/></a>
   <a href="https://pytorch.org/">
@@ -67,6 +69,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/></a>
   <a href="https://www.mysql.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
+  <a href="https://mariadb.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/></a>
   <a href="https://mariadb.org/">
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="50" height="50"/></a>
   <a href="https://www.sqlite.org/">
