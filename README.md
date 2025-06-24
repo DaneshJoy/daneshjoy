@@ -74,7 +74,7 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daneshjoy" alt="daneshjoy profile trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daneshjoy&title=-Issues,-PullRequest,-Reviews" alt="daneshjoy profile trophy" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=daneshjoy&show_icons=true&locale=en&layout=compact" alt="daneshjoy" /></p>
 <br>
