@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6fe93d74-0503-4418-baad-8d5da9c86aa2)![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
 
 <div align="center">
   <img src="daneshjoy_sketch.gif" alt="daneshjoy logo gif" width="225"/>
