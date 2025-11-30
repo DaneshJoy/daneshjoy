@@ -8,7 +8,7 @@
   <a href="mailto:daneshjoy.ir@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat"/>
   </a>
-  <a href="https://linkedin.com/in/saeed-mohagheghi" target="_blank">
+  <a href="https://linkedin.com/in/saeed--mohagheghi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="daneshjoy logo gif"/>
   </a>
   <a href="https://www.daneshjoy.ir" target="_blank">
