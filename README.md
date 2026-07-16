@@ -28,7 +28,9 @@
 
 **Programmer**, **Researcher**, **Educator** and **Biomedical Engineer**
 
-- Currently working: **(LangChain + Flask/FasAPI)** | **(Python + PyVista + PyQt)** 
+- Currently working:
+  - **Face Analysis & Regeneration**
+  - **Structured Knowledge Extraction for LLMs from Very Large Documents** 
 
 ---
 
