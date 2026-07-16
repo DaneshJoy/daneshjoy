@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
 
 <div align="center">
-  <img src="daneshjoy_sketch.gif" alt="daneshjoy logo gif" width="225"/>
+  <img src="daneshjoy_logo_text_w.jpg" alt="daneshjoy logo text" width="300"/>
 </div>
 
 <div align="center">
