@@ -1,24 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=😊%20Daneshjoy&fontSize=24&fontColor=auto&animation=blink)
-
 <div align="center">
   <img src="daneshjoy_logo_text.png" alt="daneshjoy logo text" width="300"/>
 </div>
 
 <div align="center">
   <a href="mailto:daneshjoy.ir@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/saeed--mohagheghi" target="_blank">
-  <a href="https://www.daneshjoy.ir" target="_blank">
-    <img src="https://img.shields.io/website?url=https%3A//www.daneshjoy.ir&label=daneshjoy.ir" alt="daneshjoy logo gif"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/DaneshJoy" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=daneshjoy&label=Profile%20views&color=0e75b6&style=flat" alt="daneshjoy" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
-<div align="center">
-  <a href="https://daneshjoy.ir/donate/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.daneshjoy.ir&up_message=%3A)&up_color=pink&style=flat&label=Donate" width=100>
+  <a href="https://github.com/DaneshJoy" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=daneshjoy&label=Profile%20views&color=0e75b6&style=flat" alt="daneshjoy"/>
   </a>
 </div>
 
@@ -104,10 +99,3 @@ Here are some ideas to get you started:
 -->
 
 <hr />
-<div align="center">
-  <a href="https://daneshjoy.ir/donate/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.daneshjoy.ir&up_message=%3A)&up_color=pink&style=flat&label=Donate" width=110>
-  </a>
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=&fontSize=24&fontColor=auto)
